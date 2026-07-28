@@ -19,8 +19,11 @@ sol: try to make it clean first and then symmetric
 
 2. I intially created the project in easyeda std but had trouble finding the most common features i used in easyeda pro.
 sol: just use easyeda pro
-![Screenshot From 2026-03-26 23-25-06.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--dba24929a9ac3c87352cc63c0a64d1baa87643f7/Screenshot From 2026-03-26 23-25-06.png)
-![Screenshot From 2026-03-26 23-24-42.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--fa5e601b09fc8848fe460dfc52ea4e584164b871/Screenshot From 2026-03-26 23-24-42.png)
+<img width="436" height="314" alt="1-2" src="https://github.com/user-attachments/assets/41b484c9-7fb3-4f82-b1d8-4df69173edf5" />
+<img width="727" height="296" alt="1-1" src="https://github.com/user-attachments/assets/3abe87ca-0f26-474a-8c2f-ab03c0b523bc" />
+
+##   total time:- 2hrs 6min
+
 
 
 ### Recording Links
@@ -45,9 +48,11 @@ I took the inspiration of zine page from bat signal from batman movie
 ### _NOTE FOR REVIEWER_
 this project is fully funded by easyeda for build guild workshop. so i am jouranling it for travel grant only
 
+<img width="713" height="284" alt="2-2" src="https://github.com/user-attachments/assets/1ac768e2-948b-4c53-83ee-e6d33e445f69" />
+<img width="713" height="284" alt="2-1" src="https://github.com/user-attachments/assets/705b9fd6-c6e4-4a7d-97d5-2252fbb7407d" />
 
-![Screenshot From 2026-04-02 14-25-22.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjEyNywicHVyIjoiYmxvYl9pZCJ9fQ==--be2f70ab383a6b701adf09c651e02335bdc9b67a/Screenshot From 2026-04-02 14-25-22.png)
-![Screenshot From 2026-04-02 14-25-46.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjEyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--089532781558da816c7699a5e2de9e4e256985a5/Screenshot From 2026-04-02 14-25-46.png)
+
+##   total time:- 47min
 
 
 ### Recording Links
@@ -68,14 +73,11 @@ There are few setting u need to do while ordering the pcb for colourful slikscre
 2) white colour only works
 3)easyeda colourful slikscreen in advance setting.
 
-front
-![Screenshot From 2026-04-02 14-25-22.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjMxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--a849017f6ab3f06300c95aeb30d1192d5ce4311a/Screenshot From 2026-04-02 14-25-22.png)
 
+<img width="713" height="284" alt="3-2" src="https://github.com/user-attachments/assets/9bc3018f-c161-4fbb-a2db-ab2ff2bebdbd" />
+<img width="713" height="284" alt="3-1" src="https://github.com/user-attachments/assets/154ab5ff-5dfd-49f5-a850-de698daa67a9" />
 
-back
-
-![Screenshot From 2026-04-02 14-25-46.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjMxNywicHVyIjoiYmxvYl9pZCJ9fQ==--dd2ca711f5d919dbca6b838b4695ff2731096d26/Screenshot From 2026-04-02 14-25-46.png)
-
+##   total time:- 25min
 
 ### Recording Links
 
@@ -89,11 +91,13 @@ back
 ### Content
 
 so, i was not going to submit this but have to anyway because i was 2 hours short for 60 hours. so i finshed the zine and also the compleleted the github repo. i was not able to organise the build guild so now easyeda is not sponsering this and i removed their logo.
-![Screenshot From 2026-06-19 14-04-24.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYxMzUsInB1ciI6ImJsb2JfaWQifX0=--927e9c32b64d74cd795c1b1a21f3233b14a49a4c/Screenshot From 2026-06-19 14-04-24.png)
+<img width="728" height="312" alt="4-1" src="https://github.com/user-attachments/assets/bed6c5fc-542c-4c3c-8494-46937d9b5247" />
+
 
 for the zine i tried to make it minimalist.
-![BAT SIGNAL.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYxMzYsInB1ciI6ImJsb2JfaWQifX0=--50a4ac2cdb0700d2ba9f5bba3231980196f6e7b4/BAT SIGNAL.png)
+<img width="404" height="618" alt="4-2" src="https://github.com/user-attachments/assets/3e742a6c-9a4a-4f60-9192-eb527ab6b329" />
 
+##   total time:- 1hr 18min
 
 ### Recording Links
 
