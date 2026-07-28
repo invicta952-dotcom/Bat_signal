@@ -14,6 +14,11 @@ this is blinky with 10 leds in middle of bat in circle like bat signal in night 
 6) order the pcb and components
 7) solder the componets
 
+
+## Easyeda link
+https://u.easyeda.com/join?type=project&key=5a47a22a11836902c448bbee51d2edba&inviter=0cd3312942c647509feb6106b228a42e
+
+
 ## zine
 <img width="404" height="618" alt="BAT SIGNAL" src="https://github.com/user-attachments/assets/bb2bac54-e460-468b-a0e0-5324444f2b4c" />
 
